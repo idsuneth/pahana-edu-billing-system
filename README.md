@@ -38,5 +38,6 @@ A web-based bookshop management system built with Java, JSP, and MySQL.
 - DAO Layer: Database access operations
 - Model Layer: Entity classes
 - Util Layer: Helper utilities
-- 
-Added controller layer with servlets
+
+  ## Added controller layer with servlets
+  ## Added DAO 
